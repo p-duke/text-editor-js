@@ -1,0 +1,29 @@
+{
+  "name": "text-editor-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-duke/text-editor-js.git"
+  },
+  "keywords": [],
+  "author": "Peter Duke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-duke/text-editor-js/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "stitch": "latest",
+    "uglify-js": "latest",
+    "express": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "sinon": "latest"
+  },
+  "homepage": "https://github.com/p-duke/text-editor-js#readme"
+}
